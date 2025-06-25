@@ -4,16 +4,16 @@ This project involves building an interactive sales dashboard using e-commerce t
 
 📁 Project Structure
 
-Orders.csv: Contains individual order-level transaction details.
+- Orders.csv: Contains individual order-level transaction details.
 
-Details.csv: Contains customer or product-specific metadata.
+- Details.csv: Contains customer or product-specific metadata.
 
-ECommerce Sales Dashboard.pbix: Power BI file containing the cleaned data model and visualizations.
+- ECommerce Sales Dashboard.pbix: Power BI file containing the cleaned data model and visualizations.
 
 🛠 Technologies Used
 
-Microsoft Power BI – For data modeling and visualization
+- Microsoft Power BI – For data modeling and visualization
 
-CSV files – As raw data sources
+- CSV files – As raw data sources
 
-DAX (Power BI formulas) – For custom measures and calculated fields
+- DAX (Power BI formulas) – For custom measures and calculated fields
